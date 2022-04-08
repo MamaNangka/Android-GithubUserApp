@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="barname">Github User\'s</string>
+    <string name="barname_fav">Favourite Users</string>
+    <string name="user_name">Username</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="company">Nama Perusahaan</string>
+    <string name="location">Asal Kota</string>
+    <string name="repository">0</string>
+    <string name="followers">0</string>
+    <string name="following">0</string>
+    <string name="tvrepository">Repository</string>
+    <string name="tvfollowers">Followers</string>
+    <string name="tvfollowing">Following</string>
+    <string name="btn_back">Kembali</string>
+    <string name="user_ava">Avatar User</string>
+    <string name="search_txt">Cari User Github Disini!</string>
+    <string name="search_user">Search User Here!</string>
+    <string name="search_img">search logo</string>
+    <string name="dark_theme">Dark Mode Theme</string>
+    <string name="light_theme">Light Mode Theme</string>
+
+
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite">Favourite Button</string>
+
+
+</resources>
